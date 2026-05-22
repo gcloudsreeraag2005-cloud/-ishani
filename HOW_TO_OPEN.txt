@@ -1,0 +1,7 @@
+Happy 21st birthday, Ishani.
+
+To open the website:
+1. Extract this ZIP folder.
+2. Open the file named index.html.
+
+If it opens in a browser, everything is working.
